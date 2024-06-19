@@ -42,7 +42,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/n-auliaputri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/liyadvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="mailto:sitinurulauliaputri2352007@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 <br> 
 <p align="right" > Created with 🧡 by Liyadvt</p>
